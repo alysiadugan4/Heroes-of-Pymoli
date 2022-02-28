@@ -68,7 +68,7 @@ Your final report should include each of the following:
   
 ### Summary
 
-The purpose of this project was to create a straight-forward analysis of sale and user statistics for a game developer. These statistics would be useful in determining how best to market their game, as well promoting in-game purchases to players. 
+The purpose of this project was to create a straight-forward analysis of sale and user statistics for a game developer. These statistics would be useful in determining how best to market their game, as well promoting in-game purchases to players. There were 780 rows in the dataset.
 
 The player analysis was fairly simple, starting with a formula to determine the length of unique player IDs for the total number of players and a value count on the Gender field. 
 
